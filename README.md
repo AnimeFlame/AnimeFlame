@@ -30,6 +30,8 @@
 
 
 <a href="https://github.com/animeflame">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=animeflame&show_icons=true&count_private=true&theme=blueberry&hide_border=true">
+<!--   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=animeflame&show_icons=true&count_private=true&theme=blueberry&hide_border=true"> -->
+  
+  ![My stats](https://github-readme-stats.vercel.app/api?username=AnimeFlame&count_private=true)
 </a>
 <br>
